@@ -1,0 +1,10 @@
+GET /department-members?departmentIds=L1001
+Host: localhost:8080
+Accept: application/json
+
+###
+
+GET /department-members?departmentIds=L1001, L1002, L1003
+Host: localhost:8080
+Accept: application/json
+
